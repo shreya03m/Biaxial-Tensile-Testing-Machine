@@ -1,1 +1,0 @@
-# Biaxial-Universal-Testing-Machine
